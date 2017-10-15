@@ -12,7 +12,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde se da
 - [Responsive Design Weekly](http://responsivedesignweekly.com/) - Responsive design articles, tools, tips, tutorials and inspirational links.
 - [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/) - Useful tips, tricks and resources for frontend designers — collected, written and edited by Smashing Magazine.
 
-## Knižní zdroje
+## Knižní zdroje, ebooky
 
 - [Design Systems](https://www.smashingmagazine.com/design-systems-book/) - As designing static pages has become untenable, many have started to approach design in a modular way. Book is new practical guide to creating effective design languages for great digital products. *(2017; Smashing Magazine - Vitaly Friedman)*
 - [Vzhůru do (responzivního) webdesignu 🇨🇿](https://www.vzhurudolu.cz/ebook-responzivni) - Kompletní průvodce návrhem a implementací responzivních uživatelských rozhraní. *(2017; Martin Michálek)*
@@ -36,7 +36,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde se da
 - Ostrava
   - [Ostravské srazy Frontedisti.cz 🇨🇿](https://www.meetup.com/Frontendisti-cz-Ostrava/)
   
-## Budoucí konference
+## Nadcházející konference
   
 - [WebExpo 2018](https://www.webexpo.cz/) (21.–22. 9. 2018) - Největší a nejzajímavější webová událost roku v ČR. 
 
