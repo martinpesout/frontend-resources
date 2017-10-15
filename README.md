@@ -8,6 +8,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde se da
 
 - [CSS Layout News](http://csslayout.news/) - Tutorials, news and information on CSS Layout.
 - [CSS Weekly](http://css-weekly.com/) - CSS articles, tutorials, experiments and tools.
+- [Dev Tips](https://umaar.com/dev-tips/) - Tips mostly for Chrome DevTools in the form of a animated gif.
 - [Responsive Design Weekly](http://responsivedesignweekly.com/) - Responsive design articles, tools, tips, tutorials and inspirational links.
 - [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/) - Useful tips, tricks and resources for frontend designers — collected, written and edited by Smashing Magazine.
 
