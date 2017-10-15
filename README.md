@@ -29,11 +29,11 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde se da
 ## Minikonference, srazy
 
 - Praha
-  - [Pražské srazy Frontendisti.cz](https://www.meetup.com/frontendisti/)
+  - [Pražské srazy Frontendisti.cz 🇨🇿](https://www.meetup.com/frontendisti/)
 - Brno
-  - [Brněnské srazy Frontendisti.cz](https://www.meetup.com/frontendisti-brno/)
+  - [Brněnské srazy Frontendisti.cz 🇨🇿](https://www.meetup.com/frontendisti-brno/)
 - Ostrava
-  - [Ostravské srazy Frontedisti.cz](https://www.meetup.com/Frontendisti-cz-Ostrava/)
+  - [Ostravské srazy Frontedisti.cz 🇨🇿](https://www.meetup.com/Frontendisti-cz-Ostrava/)
   
 ## Budoucí konference
   
