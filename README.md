@@ -17,6 +17,11 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde se da
 - [Vzhůru do (responzivního) webdesignu 🇨🇿](https://www.vzhurudolu.cz/ebook-responzivni) - Kompletní průvodce návrhem a implementací responzivních uživatelských rozhraní. *(2017; Martin Michálek)*
 - [Web ostrý jako břitva 🇨🇿](https://www.houseofrezac.com/kniha) - První česká kniha o návrhu webu. Webdesign není jednoduchý, jen podceňovaný. Kniha ukáže začínajícím webdesignerům cestu, zkušeným doplní mezery a zadavatelům ušetří statisíce za špatně navržený web nebo nesmyslný tendr. *(2014; Jan Řezáč)*
 
+## Videa
+
+- [Záznamy přednášek z konference WebExpo](https://www.webexpo.cz/videa/)
+- [Záznamy přednášek ze srazů Frontendisti.cz 🇨🇿](https://www.youtube.com/user/frontendisti/)
+
 ## Podcasty
 
 - [Vzhůru dolů 🇨🇿](https://www.vzhurudolu.cz/podcast) - Rozhovory s českými osobnostmi webdesignu. 
