@@ -16,3 +16,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde se da
 - [Design Systems](https://www.smashingmagazine.com/design-systems-book/) - As designing static pages has become untenable, many have started to approach design in a modular way. Book is new practical guide to creating effective design languages for great digital products. *(2017; Smashing Magazine - Vitaly Friedman)*
 - [Vzhůru do (responzivního) webdesignu 🇨🇿](https://www.vzhurudolu.cz/ebook-responzivni) - Kompletní průvodce návrhem a implementací responzivních uživatelských rozhraní. *(2017; Martin Michálek)*
 - [Web ostrý jako břitva 🇨🇿](https://www.houseofrezac.com/kniha) - První česká kniha o návrhu webu. Webdesign není jednoduchý, jen podceňovaný. Kniha ukáže začínajícím webdesignerům cestu, zkušeným doplní mezery a zadavatelům ušetří statisíce za špatně navržený web nebo nesmyslný tendr. *(2014; Jan Řezáč)*
+
+## Podcasty
+
+- [Vzhůru dolů 🇨🇿](https://www.vzhurudolu.cz/podcast) - Rozhovory s českými osobnostmi webdesignu. 
