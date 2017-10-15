@@ -20,3 +20,17 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde se da
 ## Podcasty
 
 - [Vzhůru dolů 🇨🇿](https://www.vzhurudolu.cz/podcast) - Rozhovory s českými osobnostmi webdesignu. 
+
+## Minikonference, srazy
+
+- Praha
+  - [Pražské srazy Frontendisti.cz](https://www.meetup.com/frontendisti/)
+- Brno
+  - [Brněnské srazy Frontendisti.cz](https://www.meetup.com/frontendisti-brno/)
+- Ostrava
+  - [Ostravské srazy Frontedisti.cz](https://www.meetup.com/Frontendisti-cz-Ostrava/)
+  
+## Budoucí konference
+  
+- [WebExpo 2018](https://www.webexpo.cz/) (21.–22. 9. 2018) - Největší a nejzajímavější webová událost roku v ČR. 
+
