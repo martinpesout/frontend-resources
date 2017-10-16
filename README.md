@@ -2,7 +2,7 @@
 
 ## Pro koho je seznam určený? 
 
-Seznam je určený pro všechny frontend designery, kteří se ptají, kde se dají sledovat nejnovější trendy a informace týkající se webových technologií. Chtěl bych v něm postupně popsat nejzajímavější internetové a knižní zdroje, které stojí za to sledovat. Jako médium jsem zvolil právě GitHub, protože umožňuje ostatním přidávat návrhy na změny a udržovat tak seznam aktuální. Pokud tedy víte o něčem zajímavém, co vám v seznamu chybí, otevřete [novou issue](https://github.com/martinpesout/frontend-resources/issues/new) a popište váš návrh na nový zdroj.
+Seznam je určený pro všechny frontend designery, kteří se ptají, kde je možné sledovat nejnovější trendy a informace týkající se webových technologií. Chtěl bych v něm postupně popsat nejzajímavější internetové a knižní zdroje, které stojí za to sledovat. Jako médium jsem zvolil právě GitHub, protože umožňuje ostatním přidávat návrhy na změny a udržovat tak seznam aktuální. Pokud tedy víte o něčem zajímavém, co vám v seznamu chybí, otevřete [novou issue](https://github.com/martinpesout/frontend-resources/issues/new) a popište váš návrh na nový zdroj.
 
 ## Blogy
 
@@ -27,12 +27,26 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde se da
 - [Vzhůru do (responzivního) webdesignu 🇨🇿](https://www.vzhurudolu.cz/ebook-responzivni) - Kompletní průvodce návrhem a implementací responzivních uživatelských rozhraní. *(2017; Martin Michálek)*
 - [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) - This book explains how we can craft accessible interfaces without extra effort — and what front-end design patterns we can use to create inclusive experiences. *(2016; Smashing Magazine - Heydon Pickering)*
 - [Atomic Design](http://atomicdesign.bradfrost.com/) - Book covers all that goes into creating and maintaining effective design systems. *(2016; Brad Frost)*
+- [Practical SVG](https://abookapart.com/products/practical-svg) - From software basics to creating icon systems and implementing fallbacks, Chris Coyier shows you how to harness the power and possibilities of working with SVG. - *(2016; A Book Apart - Chris Coyier)*
 - [Web ostrý jako břitva 🇨🇿](https://www.houseofrezac.com/kniha) - První česká kniha o návrhu webu. Webdesign není jednoduchý, jen podceňovaný. Kniha ukáže začínajícím webdesignerům cestu, zkušeným doplní mezery a zadavatelům ušetří statisíce za špatně navržený web nebo nesmyslný tendr. *(2014; Jan Řezáč)*
 
 ## Videa
 
 - [Záznamy přednášek z konference WebExpo](https://www.webexpo.cz/videa/)
 - [Záznamy přednášek ze srazů Frontendisti.cz 🇨🇿](https://www.youtube.com/user/frontendisti/)
+
+## Online výukové nástroje
+
+### Příklady, ukázky
+
+- [Grid by Example](https://gridbyexample.com/) - Projekt Rachel Andrew, který by měl obsahovat vše potřebné pro pochopení CSS Grid Layout. Vše je obohacené o příklady a návrhové vzory.
+- [Learn CSS Grid](http://learncssgrid.com/) - Průvodce, který pomůže porozumět možnostem CSS Grid Layout.
+
+### Výukové hry
+
+- [Flexbox Froggy](http://flexboxfroggy.com/) - Hra pro výuku CSS Flexbox
+- [Grid Garden](http://cssgridgarden.com/) - Hra pro výuku CSS Grid Layout
+  
 
 ## Podcasty
 
