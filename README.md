@@ -7,6 +7,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde se da
 ## Blogy
 
 - [Brad Frost](http://bradfrost.com/blog/) - Blog written by Brad Frost — a web designer, speaker, consultant and author of Atomic Design. 
+- [CSS-Tricks](https://css-tricks.com/) - CSS-Tricks has come to become a site about all things web design and development.
 - [Je čas 🇨🇿](http://jecas.cz/) - Blog, který autor založil k uchování a sdílení poznámek, hotových řešení, rad a nápadů k tvorbě webových stránek.
 - [Smashing Magazine](https://www.smashingmagazine.com/) - Magazine for web designers and developers.
 - [Vzhůru dolů 🇨🇿](https://www.vzhurudolu.cz/) - Populární český blog o webovém frontedu. Autorem je Martin Michálek, známý  specialista na CSS a responzivní design.
@@ -14,6 +15,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde se da
 ## Newslettery
 
 - [CSS Layout News](http://csslayout.news/) - Tutorials, news and information on CSS Layout.
+- [CSS-Tricks](https://css-tricks.com/subscription-options/) - Newsletter about web design and development.
 - [CSS Weekly](http://css-weekly.com/) - CSS articles, tutorials, experiments and tools.
 - [Dev Tips](https://umaar.com/dev-tips/) - Tips mostly for Chrome DevTools in the form of a animated gif.
 - [Responsive Design Weekly](http://responsivedesignweekly.com/) - Responsive design articles, tools, tips, tutorials and inspirational links.
@@ -33,6 +35,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde se da
 
 ## Podcasty
 
+- [Brus kódu 🇨🇿](http://bruskodu.cz/) - Podcast o front-endových vývojářích a technologiích. Další natáčení momentálně přerušeno.
 - [Vzhůru dolů 🇨🇿](https://www.vzhurudolu.cz/podcast) - Rozhovory s českými osobnostmi webdesignu. 
 
 ## Minikonference, srazy
@@ -48,3 +51,6 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde se da
   
 - [WebExpo 2018](https://www.webexpo.cz/) (21.–22. 9. 2018) - Největší a nejzajímavější webová událost roku v ČR. 
 
+---
+
+Autor seznamu: Martin Pešout. Dále přispěli: Tomáš Kout 
