@@ -28,6 +28,8 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Smashing Magazine](https://www.smashingmagazine.com/) - Magazine for web designers and developers.
 - [Vzhůru dolů 🇨🇿](https://www.vzhurudolu.cz/) - Populární český blog o webovém frontedu. Autorem je Martin Michálek, známý  specialista na CSS a responzivní design.
 
+<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
+
 ## Newslettery
 
 - [CSS Layout News](http://csslayout.news/) - Tutorials, news and information on CSS Layout.
@@ -36,6 +38,8 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Dev Tips](https://umaar.com/dev-tips/) - Tips mostly for Chrome DevTools in the form of a animated gif.
 - [Responsive Design Weekly](http://responsivedesignweekly.com/) - Responsive design articles, tools, tips, tutorials and inspirational links.
 - [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/) - Useful tips, tricks and resources for frontend designers — collected, written and edited by Smashing Magazine.
+
+<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
 ## Knižní zdroje, ebooky
 
@@ -55,10 +59,14 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 - [Web ostrý jako břitva 🇨🇿](https://www.houseofrezac.com/kniha) - První česká kniha o návrhu webu. Webdesign není jednoduchý, jen podceňovaný. Kniha ukáže začínajícím webdesignerům cestu, zkušeným doplní mezery a zadavatelům ušetří statisíce za špatně navržený web nebo nesmyslný tendr. *(2014; Jan Řezáč)*
 
+<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
+
 ## Videa
 
 - [Záznamy přednášek z konference WebExpo](https://www.webexpo.cz/videa/)
 - [Záznamy přednášek ze srazů Frontendisti.cz 🇨🇿](https://www.youtube.com/user/frontendisti/)
+
+<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
 ## Online výukové nástroje
 
@@ -72,11 +80,15 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 - [Flexbox Froggy](http://flexboxfroggy.com/) - Hra pro výuku CSS Flexbox
 - [Grid Garden](http://cssgridgarden.com/) - Hra pro výuku CSS Grid Layout
+
+<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
   
 ## Podcasty
 
 - [Brus kódu 🇨🇿](http://bruskodu.cz/) - Podcast o front-endových vývojářích a technologiích. Další natáčení momentálně přerušeno.
-- [Vzhůru dolů 🇨🇿](https://www.vzhurudolu.cz/podcast) - Rozhovory s českými osobnostmi webdesignu. 
+- [Vzhůru dolů 🇨🇿](https://www.vzhurudolu.cz/podcast) - Rozhovory s českými osobnostmi webdesignu.
+
+<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
 ## Minikonference, srazy
 
@@ -87,9 +99,13 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - Ostrava
   - [Ostravské srazy Frontedisti.cz 🇨🇿](https://www.meetup.com/Frontendisti-cz-Ostrava/)
   
+<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
+  
 ## Nadcházející konference
   
 - [WebExpo 2018](https://www.webexpo.cz/) (21.–22. 9. 2018) - Největší a nejzajímavější webová událost roku v ČR. 
+
+<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
 ---
 
