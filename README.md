@@ -4,6 +4,21 @@
 
 Seznam je určený pro všechny frontend designery, kteří se ptají, kde je možné sledovat nejnovější trendy a informace týkající se webových technologií. Chtěl bych v něm postupně popsat nejzajímavější internetové a knižní zdroje, které stojí za to sledovat. Jako médium jsem zvolil právě GitHub, protože umožňuje ostatním přidávat návrhy na změny a udržovat tak seznam aktuální. Pokud tedy víte o něčem zajímavém, co vám v seznamu chybí, otevřete [novou issue](https://github.com/martinpesout/frontend-resources/issues/new) a popište váš návrh na nový zdroj.
 
+#### Obsah seznamu
+
+<details>
+  
+- [Blogy](#blogy)
+- [Newslettery](#newslettery)
+- [Knižní zdroje, ebooky](#knižní-zdroje-ebooky)
+- [Videa](#videa)
+- [Online výukové nástroje](#online-výukové-nástroje)
+- [Podcasty](#podcasty)
+- [Minikonference, srazy](#minikonference-srazy)
+- [Nadcházející konference](#nadcházející-konference)
+
+</details>
+
 ## Blogy
 
 - [Brad Frost](http://bradfrost.com/blog/) - Blog written by Brad Frost — a web designer, speaker, consultant and author of Atomic Design. 
@@ -58,7 +73,6 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Flexbox Froggy](http://flexboxfroggy.com/) - Hra pro výuku CSS Flexbox
 - [Grid Garden](http://cssgridgarden.com/) - Hra pro výuku CSS Grid Layout
   
-
 ## Podcasty
 
 - [Brus kódu 🇨🇿](http://bruskodu.cz/) - Podcast o front-endových vývojářích a technologiích. Další natáčení momentálně přerušeno.
