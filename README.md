@@ -14,6 +14,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Videa](#videa)
 - [Online výukové nástroje](#online-výukové-nástroje)
 - [Podcasty](#podcasty)
+- [Editory kódu](#editory-kódu)
 - [Minikonference, srazy](#minikonference-srazy)
 - [Nadcházející konference](#nadcházející-konference)
 
@@ -87,6 +88,14 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 - [Brus kódu 🇨🇿](http://bruskodu.cz/) - Podcast o front-endových vývojářích a technologiích. Další natáčení momentálně přerušeno.
 - [Vzhůru dolů 🇨🇿](https://www.vzhurudolu.cz/podcast) - Rozhovory s českými osobnostmi webdesignu.
+
+<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
+
+## Editory kódu
+
+- [Atom](https://atom.io/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
