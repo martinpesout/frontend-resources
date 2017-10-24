@@ -96,6 +96,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Atom](https://atom.io/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Webstorm](https://confluence.jetbrains.com/display/WI/WebStorm+EAP)
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
