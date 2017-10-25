@@ -93,9 +93,14 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ## Editory kódu
 
-- [Atom](https://atom.io/)
-- [Sublime Text](https://www.sublimetext.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+1.  [Sublime Text](https://www.sublimetext.com/) 🏆
+2.  [Visual Studio Code](https://code.visualstudio.com/)
+3.  [PhpStorm](https://www.jetbrains.com/phpstorm/)
+4.  [Atom](https://atom.io/)
+5.  [WebStorm](https://www.jetbrains.com/webstorm/)
+6.  [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+
+Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo sestaveno na základě [FB ankety](https://www.facebook.com/groups/frontendisti/permalink/1944987375712777/) z října 2017. V anketě naleznete i další méně užívané editory.
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
@@ -118,4 +123,4 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ---
 
-Autor seznamu: Martin Pešout. Dále přispěli: Tomáš Kout 
+Autor seznamu: Martin Pešout. Dále přispěli: Tomáš Kout, Jetpack 
