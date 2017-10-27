@@ -17,6 +17,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Editory kódu](#editory-kódu)
 - [Minikonference, srazy](#minikonference-srazy)
 - [Nadcházející konference](#nadcházející-konference)
+- [Kde hledat pracovní nabídky?](#kde-hledat-pracovní-nabídky)
 
 </details>
 
@@ -118,6 +119,13 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
 ## Nadcházející konference
   
 - [WebExpo 2018](https://www.webexpo.cz/) (21.–22. 9. 2018) - Největší a nejzajímavější webová událost roku v ČR. 
+
+<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
+
+## Kde hledat pracovní nabídky?
+  
+- [Frontendisti.cz práce 🇨🇿](https://www.facebook.com/groups/frontendistiprace/) - FB skupina určená pro nabídky a poptávky pracovních pozic kolem webovém frontendu.
+- [Vzhůru do práce! 🇨🇿](https://www.vzhurudolu.cz/prace) - Pracovní nabídky pro webové vývojáře.
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
