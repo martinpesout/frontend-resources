@@ -84,6 +84,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
 - [Grid by Example](https://gridbyexample.com/) - Projekt Rachel Andrew, který by měl obsahovat vše potřebné pro pochopení CSS Grid Layout. Vše je obohacené o příklady a návrhové vzory.
 - [Learn CSS Grid](http://learncssgrid.com/) - Průvodce, který pomůže porozumět možnostem CSS Grid Layout.
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - jQuery je na webech hojně používané. Často však potřebujeme jen zlomek jeho funkcí. Stránka poskytuje ucelený přehled základních funkcí jQuery a jejich alternativních zápisů pomocí Javascriptu.
 
 ### Výukové hry
 
