@@ -12,8 +12,8 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Newslettery](#newslettery)
 - [Knižní zdroje, ebooky](#knižní-zdroje-ebooky)
 - [Videa](#videa)
-- [Online výukové nástroje](#online-výukové-nástroje)
 - [Podcasty](#podcasty)
+- [Online výukové nástroje](#online-výukové-nástroje)
 - [Editory kódu](#editory-kódu)
 - [Minikonference, srazy](#minikonference-srazy)
 - [Nadcházející konference](#nadcházející-konference)
@@ -70,6 +70,13 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
+## Podcasty
+
+- [Brus kódu 🇨🇿](http://bruskodu.cz/) - Podcast o front-endových vývojářích a technologiích. Další natáčení momentálně přerušeno.
+- [Vzhůru dolů 🇨🇿](https://www.vzhurudolu.cz/podcast) - Rozhovory s českými osobnostmi webdesignu.
+
+<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
+
 ## Online výukové nástroje
 
 ### Příklady, ukázky
@@ -85,13 +92,6 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
   
-## Podcasty
-
-- [Brus kódu 🇨🇿](http://bruskodu.cz/) - Podcast o front-endových vývojářích a technologiích. Další natáčení momentálně přerušeno.
-- [Vzhůru dolů 🇨🇿](https://www.vzhurudolu.cz/podcast) - Rozhovory s českými osobnostmi webdesignu.
-
-<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
-
 ## Editory kódu
 
 1.  [Sublime Text](https://www.sublimetext.com/) 🏆
