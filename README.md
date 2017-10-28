@@ -1,19 +1,20 @@
 # Seznam zajímavých zdrojů pro frontend designery
 
-## Pro koho je seznam určený? 
+## Pro koho je seznam určený?
 
 Seznam je určený pro všechny frontend designery, kteří se ptají, kde je možné sledovat nejnovější trendy a informace týkající se webových technologií. Chtěl bych v něm postupně popsat nejzajímavější internetové a knižní zdroje, které stojí za to sledovat. Jako médium jsem zvolil právě GitHub, protože umožňuje ostatním přidávat návrhy na změny a udržovat tak seznam aktuální. Pokud tedy víte o něčem zajímavém, co vám v seznamu chybí, otevřete [novou issue](https://github.com/martinpesout/frontend-resources/issues/new) a popište váš návrh na nový zdroj.
 
 #### Obsah seznamu
 
 <details>
-  
+
 - [Blogy](#blogy)
 - [Newslettery](#newslettery)
 - [Knižní zdroje, ebooky](#knižní-zdroje-ebooky)
 - [Videa](#videa)
 - [Podcasty](#podcasty)
-- [Online výukové nástroje](#online-výukové-nástroje)
+- [Výukové nástroje](#výukové-nástroje)
+- [Užitečné služby](#užitečné-služby)
 - [Editory kódu](#editory-kódu)
 - [Minikonference, srazy](#minikonference-srazy)
 - [Nadcházející konference](#nadcházející-konference)
@@ -23,7 +24,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ## Blogy
 
-- [Brad Frost](http://bradfrost.com/blog/) - Blog written by Brad Frost — a web designer, speaker, consultant and author of Atomic Design. 
+- [Brad Frost](http://bradfrost.com/blog/) - Blog written by Brad Frost — a web designer, speaker, consultant and author of Atomic Design.
 - [CSS-Tricks](https://css-tricks.com/) - CSS-Tricks has come to become a site about all things web design and development.
 - [Inclusive Components](https://inclusive-components.design/) - A blog trying to be a pattern library, with a focus on inclusive design. Each post explores a common interface component and comes up with a better, more robust and accessible version of it.
 - [Je čas 🇨🇿](http://jecas.cz/) - Blog, který autor založil k uchování a sdílení poznámek, hotových řešení, rad a nápadů k tvorbě webových stránek.
@@ -77,7 +78,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
-## Online výukové nástroje
+## Výukové nástroje
 
 ### Příklady, ukázky
 
@@ -92,7 +93,15 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Grid Garden](http://cssgridgarden.com/) - Hra pro výuku CSS Grid Layout
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
-  
+
+## Užitečné služby
+
+### Testování webů
+
+- [BrowserStack](https://www.browserstack.com) - Služba, která vám umožní vyzkoušet váš projekt na jiných prohlížečích, ale i na jiných zařízeních. Nic nemusíte instalovat. Při testování se připojujete k zařízením přes váš prohlížeč. **Cena: $12.50 / měsíc**
+
+<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
+
 ## Editory kódu
 
 1.  [Sublime Text](https://www.sublimetext.com/) 🏆
@@ -114,17 +123,17 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
   - [Brněnské srazy Frontendisti.cz 🇨🇿](https://www.meetup.com/frontendisti-brno/)
 - Ostrava
   - [Ostravské srazy Frontedisti.cz 🇨🇿](https://www.meetup.com/Frontendisti-cz-Ostrava/)
-  
+
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
-  
+
 ## Nadcházející konference
-  
-- [WebExpo 2018](https://www.webexpo.cz/) (21.–22. 9. 2018) - Největší a nejzajímavější webová událost roku v ČR. 
+
+- [WebExpo 2018](https://www.webexpo.cz/) (21.–22. 9. 2018) - Největší a nejzajímavější webová událost roku v ČR.
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
 ## Kde hledat pracovní nabídky?
-  
+
 - [Frontendisti.cz práce 🇨🇿](https://www.facebook.com/groups/frontendistiprace/) - FB skupina určená pro nabídky a poptávky pracovních pozic kolem webovém frontendu.
 - [Vzhůru do práce! 🇨🇿](https://www.vzhurudolu.cz/prace) - Pracovní nabídky pro webové vývojáře.
 
@@ -132,4 +141,4 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
 
 ---
 
-Autor seznamu: Martin Pešout. Dále přispěli: Tomáš Kout, Jetpack 
+Autor seznamu: Martin Pešout. Dále přispěli: Tomáš Kout, Jetpack
