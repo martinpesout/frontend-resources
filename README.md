@@ -96,18 +96,18 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ## Užitečné služby
 
-### Testování webů
+### Generátory
 
-- [BrowserStack](https://www.browserstack.com) - Služba, která vám umožní vyzkoušet váš projekt na jiných prohlížečích, ale i na jiných zařízeních. Nic nemusíte instalovat. Při testování se připojujete k zařízením přes váš prohlížeč. **Cena: $12.50 / měsíc**
+- [Favicon Generator](https://realfavicongenerator.net/) - Generátor favikony webu. Nástroj vám vytvoří HTML kód a přichystá potřebné externí soubory ve správných rozměrech (obrázky, manifesty).
 
 ### Prototypování, sdílení kódu
 
 - [CodePen](https://codepen.io/) - Online nástroj pro prototypování a snadné sdílení ukázek kódu.
 - [satyr.io](http://satyr.io/) - Generátor prototypů obrázků. Umožňuje vytvářet fiktivní obrázky pevných i náhodných rozměrů, různých barev. Dokáže nasimulovat i pomalé internetové připojení.
 
-### Generátory
+### Testování webů
 
-- [Favicon Generator](https://realfavicongenerator.net/) - Generátor favikony webu. Nástroj vám vytvoří HTML kód a přichystá potřebné externí soubory ve správných rozměrech (obrázky, manifesty).
+- [BrowserStack](https://www.browserstack.com) - Služba, která vám umožní vyzkoušet váš projekt na jiných prohlížečích, ale i na jiných zařízeních. Nic nemusíte instalovat. Při testování se připojujete k zařízením přes váš prohlížeč. **Cena: $12.50 / měsíc**
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
