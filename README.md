@@ -109,6 +109,12 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 - [BrowserStack](https://www.browserstack.com) - Služba, která vám umožní vyzkoušet váš projekt na jiných prohlížečích, ale i na jiných zařízeních. Nic nemusíte instalovat. Při testování se připojujete k zařízením přes váš prohlížeč. **Cena: $12.50 / měsíc**
 
+### Zpracování obrázků
+
+- [Kraken.io](https://kraken.io/) - Služba pro rychlou optimalizaci a kompresi grafických souborů.
+- [SVGOMG!](https://jakearchibald.github.io/svgomg/) - Nástroj pro optimalizaci grafických SVG souborů.
+- [TinyPNG](https://tinypng.com/) - Nástroj pro optimalizaci grafických PNG a JPEG souborů.
+
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
 ## Editory kódu
