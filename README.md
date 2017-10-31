@@ -107,7 +107,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ### Statistiky
 
-- [Can I use](http://caniuse.com/) - Služba poskytuje přehled toho, jak jsou podporovány CSS vlastnosti, HTML5 elementy a jiné webové technlogie v různých webových prohlížečích.
+- [Can I use](http://caniuse.com/) - Služba poskytuje přehled toho, jak jsou podporovány CSS vlastnosti, HTML5 elementy a jiné webové technologie v různých webových prohlížečích.
 
 ### Testování webů
 
