@@ -105,6 +105,10 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [CodePen](https://codepen.io/) - Online nástroj pro prototypování a snadné sdílení ukázek kódu.
 - [satyr.io](http://satyr.io/) - Generátor prototypů obrázků. Umožňuje vytvářet fiktivní obrázky pevných i náhodných rozměrů, různých barev. Dokáže nasimulovat i pomalé internetové připojení.
 
+### Generátory
+
+- [Favicon Generator](https://realfavicongenerator.net/) - Generátor favikony webu. Nástroj vám vytvoří HTML kód a přichystá potřebné externí soubory ve správných rozměrech (obrázky, manifesty).
+
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
 ## Editory kódu
