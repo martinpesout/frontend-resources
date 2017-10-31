@@ -15,6 +15,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Podcasty](#podcasty)
 - [Výukové nástroje](#výukové-nástroje)
 - [Užitečné služby](#užitečné-služby)
+- [Užitečné zdroje](#užitečné-zdroje)
 - [Editory kódu](#editory-kódu)
 - [Minikonference, srazy](#minikonference-srazy)
 - [Nadcházející konference](#nadcházející-konference)
@@ -118,6 +119,14 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Kraken.io](https://kraken.io/) - Služba pro rychlou optimalizaci a kompresi grafických souborů.
 - [SVGOMG!](https://jakearchibald.github.io/svgomg/) - Nástroj pro optimalizaci grafických SVG souborů.
 - [TinyPNG](https://tinypng.com/) - Nástroj pro optimalizaci grafických PNG a JPEG souborů.
+
+<sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
+
+## Užitečné zdroje
+
+### Sady ikon
+
+- [Iconic](https://useiconic.com/) - Sada ikon navržených pro moderní web.
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
