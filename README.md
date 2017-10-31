@@ -105,6 +105,10 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [CodePen](https://codepen.io/) - Online nástroj pro prototypování a snadné sdílení ukázek kódu.
 - [satyr.io](http://satyr.io/) - Generátor prototypů obrázků. Umožňuje vytvářet fiktivní obrázky pevných i náhodných rozměrů, různých barev. Dokáže nasimulovat i pomalé internetové připojení.
 
+### Statistiky
+
+- [Can I use](http://caniuse.com/) - Služba poskytuje přehled toho, jak jsou podporovány CSS vlastnosti, HTML5 elementy a jiné webové technlogie v různých webových prohlížečích.
+
 ### Testování webů
 
 - [BrowserStack](https://www.browserstack.com) - Služba, která vám umožní vyzkoušet váš projekt na jiných prohlížečích, ale i na jiných zařízeních. Nic nemusíte instalovat. Při testování se připojujete k zařízením přes váš prohlížeč. **Cena: $12.50 / měsíc**
