@@ -50,12 +50,12 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 ### 2017
 
 - [Design Systems](https://shop.smashingmagazine.com/products/design-systems-by-alla-kholmatova) - As designing static pages has become untenable, many have started to approach design in a modular way. Book is new practical guide to creating effective design languages for great digital products. *(2017; Smashing Magazine - Alla Kholmatova)*
-- [Vzhůru do (responzivního) webdesignu 🇨🇿](https://www.vzhurudolu.cz/ebook-responzivni) - Kompletní průvodce návrhem a implementací responzivních uživatelských rozhraní. [Více v recenzi…](http://www.martinpesout.cz/kniha-vzhuru-do-responzivniho-webdesignu/) *(2017; Martin Michálek)* 
+- [Vzhůru do (responzivního) webdesignu 🇨🇿](https://www.vzhurudolu.cz/ebook-responzivni) - Kompletní průvodce návrhem a implementací responzivních uživatelských rozhraní. [Více v recenzi…](http://www.martinpesout.cz/kniha-vzhuru-do-responzivniho-webdesignu/) *(2017; Martin Michálek)*
 - [Vzhůru do CSS3 🇨🇿](https://www.vzhurudolu.cz/ebook) - Vylepšete své znalosti webové kodéřiny aktuálním přehledem nástrojů a nových CSS3 vlastností v jednom e-booku. *(2017; Martin Michálek)*
 
 ### 2016
 
-- [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) - This book explains how we can craft accessible interfaces without extra effort — and what front-end design patterns we can use to create inclusive experiences. [Více v recenzi…](http://www.martinpesout.cz/kniha-inclusive-design-patterns/) *(2016; Smashing Magazine - Heydon Pickering)* 
+- [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) - This book explains how we can craft accessible interfaces without extra effort — and what front-end design patterns we can use to create inclusive experiences. [Více v recenzi…](http://www.martinpesout.cz/kniha-inclusive-design-patterns/) *(2016; Smashing Magazine - Heydon Pickering)*
 - [Atomic Design](http://atomicdesign.bradfrost.com/) - Book covers all that goes into creating and maintaining effective design systems. *(2016; Brad Frost)*
 - [Practical SVG](https://abookapart.com/products/practical-svg) - From software basics to creating icon systems and implementing fallbacks, Chris Coyier shows you how to harness the power and possibilities of working with SVG. - *(2016; A Book Apart - Chris Coyier)*
 
@@ -119,6 +119,8 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Kraken.io](https://kraken.io/) - Služba pro rychlou optimalizaci a kompresi grafických souborů.
 - [SVGOMG!](https://jakearchibald.github.io/svgomg/) - Nástroj pro optimalizaci grafických SVG souborů.
 - [TinyPNG](https://tinypng.com/) - Nástroj pro optimalizaci grafických PNG a JPEG souborů.
+
+Při vyhodnocování přehledu služeb jsem provedl [FB anketu](https://www.facebook.com/groups/frontendisti/permalink/1947902722087909/) (listopad 2017), kde jsem se tázal komunity na další zajímavé online služby. 
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
