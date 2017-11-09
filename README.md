@@ -128,7 +128,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [SVGOMG!](https://jakearchibald.github.io/svgomg/) - Nástroj pro optimalizaci grafických SVG souborů.
 - [TinyPNG](https://tinypng.com/) - Nástroj pro optimalizaci grafických PNG a JPEG souborů.
 
-Při vyhodnocování přehledu služeb jsem provedl [FB anketu](https://www.facebook.com/groups/frontendisti/permalink/1947902722087909/) (listopad 2017), kde jsem se tázal komunity na další zajímavé online služby.
+Při vyhodnocování přehledu jsem provedl [FB anketu](https://www.facebook.com/groups/frontendisti/permalink/1947902722087909/) (listopad 2017), kde jsem se tázal komunity na další zajímavé online služby.
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
