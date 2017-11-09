@@ -86,7 +86,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
 - [Grid by Example](https://gridbyexample.com/) - Projekt Rachel Andrew, který by měl obsahovat vše potřebné pro pochopení CSS Grid Layout. Vše je obohacené o příklady a návrhové vzory.
 - [Learn CSS Grid](http://learncssgrid.com/) - Průvodce, který pomůže porozumět možnostem CSS Grid Layout.
-- [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - jQuery je na webech hojně používané. Často však potřebujeme jen zlomek jeho funkcí. Stránka poskytuje ucelený přehled základních funkcí jQuery a jejich alternativních zápisů pomocí Javascriptu.
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - jQuery je na webech hojně používané. Často však potřebujeme jen zlomek jeho funkcí. Stránka poskytuje ucelený přehled základních funkcí jQuery a jejich alternativních zápisů pomocí JavaScriptu.
 
 ### Výukové hry
 
@@ -97,30 +97,37 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ## Užitečné služby
 
+### Diskuzní portály
+
+- [Stack Overflow](https://stackoverflow.com) - Největší diskuzní portál zaměřený na vývojáře. Díky rozsáhlé komunitě je to vhodné místo pro řešení chyb, hledání rad a sdílení svých úspěchů.
+
+### Dokumentace, statistiky
+
+- [Can I use](http://caniuse.com/) - Služba poskytuje přehled toho, jak jsou podporovány CSS vlastnosti, HTML5 elementy a jiné webové technologie v různých webových prohlížečích.
+- [Mozilla Developer Network (MDN)](https://developer.mozilla.org/cs/) - Webová dokumentace poskytuje informace o otevřených webových technologiích, včetně HTML, CSS a API rozhraní pro webové stránky a HTML5 aplikace.
+
 ### Generátory
 
+- [Gradient CSS Generator](https://www.cssmatic.com/gradient-generator) - Interaktivní generátor CSS gradientů. Výsledek je možné exportovat do CSS nebo SCSS.
 - [Favicon Generator](https://realfavicongenerator.net/) - Generátor favikony webu. Nástroj vám vytvoří HTML kód a přichystá potřebné externí soubory ve správných rozměrech (obrázky, manifesty).
 
 ### Prototypování, sdílení kódu
 
-- [CodePen](https://codepen.io/) - Online nástroj pro prototypování a snadné sdílení ukázek kódu.
+- [CodePen](https://codepen.io/) - Online editor pro prototypování a snadné sdílení ukázek kódu.
+- [JSFiddle](https://jsfiddle.net/) - Online editor pro testování a sdílení vašeho JavaScriptu, CSS, HTML nebo CoffeeScriptu.
 - [satyr.io](http://satyr.io/) - Generátor prototypů obrázků. Umožňuje vytvářet fiktivní obrázky pevných i náhodných rozměrů, různých barev. Dokáže nasimulovat i pomalé internetové připojení.
-
-### Statistiky
-
-- [Can I use](http://caniuse.com/) - Služba poskytuje přehled toho, jak jsou podporovány CSS vlastnosti, HTML5 elementy a jiné webové technologie v různých webových prohlížečích.
 
 ### Testování webů
 
 - [BrowserStack](https://www.browserstack.com) - Služba, která vám umožní vyzkoušet váš projekt na jiných prohlížečích, ale i na jiných zařízeních. Nic nemusíte instalovat. Při testování se připojujete k zařízením přes váš prohlížeč. **Cena: $12.50 / měsíc**
+- [WebPagetest](https://www.webpagetest.org/) - Online služba pro pokročilou analýzu a testování webů. Umožňuje vývojáři odhalit řadu implementačních problémů např. rychlost a způsob načítání. [Více na Vzhůru Dolů…](https://www.vzhurudolu.cz/prirucka/rychlost-nastroje#webpagetest-org)
 
 ### Zpracování obrázků
 
-- [Kraken.io](https://kraken.io/) - Služba pro rychlou optimalizaci a kompresi grafických souborů.
 - [SVGOMG!](https://jakearchibald.github.io/svgomg/) - Nástroj pro optimalizaci grafických SVG souborů.
 - [TinyPNG](https://tinypng.com/) - Nástroj pro optimalizaci grafických PNG a JPEG souborů.
 
-Při vyhodnocování přehledu služeb jsem provedl [FB anketu](https://www.facebook.com/groups/frontendisti/permalink/1947902722087909/) (listopad 2017), kde jsem se tázal komunity na další zajímavé online služby. 
+Při vyhodnocování přehledu služeb jsem provedl [FB anketu](https://www.facebook.com/groups/frontendisti/permalink/1947902722087909/) (listopad 2017), kde jsem se tázal komunity na další zajímavé online služby.
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
@@ -129,6 +136,7 @@ Při vyhodnocování přehledu služeb jsem provedl [FB anketu](https://www.face
 ### Sady ikon
 
 - [Iconic](https://useiconic.com/) - Sada ikon navržených pro moderní web.
+- [IcoMoon](https://icomoon.io/) - Sady vektorových ikon s možností tvorby `SVG sprite`.
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
