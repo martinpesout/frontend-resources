@@ -180,4 +180,5 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
 
 ---
 
-Autor seznamu: [Martin Pešout](http://www.martinpesout.cz/). Velké díky🍻 posílám celé české kodérské komunitě za pomoc s rozšiřováním zdrojů.
+Autor seznamu: [Martin Pešout](http://www.martinpesout.cz/). Dále přispěli: Tomáš Kout, Jetpack, 
+vojtaaa9. Velké díky 🍻 také posílám celé české kodérské komunitě za pomoc s rozšiřováním zdrojů.
