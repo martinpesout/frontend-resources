@@ -104,6 +104,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 ### Dokumentace, statistiky
 
 - [Can I use](http://caniuse.com/) - Služba poskytuje přehled toho, jak jsou podporovány CSS vlastnosti, HTML5 elementy a jiné webové technologie v různých webových prohlížečích.
+- [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/) - Podrobný přehled podpory CSS vlastností napříč mobilními, webovými a desktopovými emailovými klienty.
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/cs/) - Webová dokumentace poskytuje informace o otevřených webových technologiích, včetně HTML, CSS a API rozhraní pro webové stránky a HTML5 aplikace.
 
 ### Generátory
@@ -179,4 +180,4 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
 
 ---
 
-Autor seznamu: Martin Pešout. Dále přispěli: Tomáš Kout, Jetpack
+Autor seznamu: [Martin Pešout](http://www.martinpesout.cz/). Velké díky🍻 posílám celé české kodérské komunitě za pomoc s rozšiřováním zdrojů.
