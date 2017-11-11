@@ -101,10 +101,10 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 - [Stack Overflow](https://stackoverflow.com) - Největší diskuzní portál zaměřený na vývojáře. Díky rozsáhlé komunitě je to vhodné místo pro řešení chyb, hledání rad a sdílení svých úspěchů.
 
-### Dokumentace, statistiky
+### Dokumentace a jiné přehledy
 
-- [Can I use](http://caniuse.com/) - Služba poskytuje přehled toho, jak jsou podporovány CSS vlastnosti, HTML5 elementy a jiné webové technologie v různých webových prohlížečích.
 - [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/) - Podrobný přehled podpory CSS vlastností napříč mobilními, webovými a desktopovými emailovými klienty.
+- [HEAD](https://gethead.info/) - Podrobný průvodce elementy, které je možné použít v hlavičce HTML dokumentu.
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/cs/) - Webová dokumentace poskytuje informace o otevřených webových technologiích, včetně HTML, CSS a API rozhraní pro webové stránky a HTML5 aplikace.
 
 ### Generátory
@@ -118,9 +118,13 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [JSFiddle](https://jsfiddle.net/) - Online editor pro testování a sdílení vašeho JavaScriptu, CSS, HTML nebo CoffeeScriptu.
 - [satyr.io](http://satyr.io/) - Generátor prototypů obrázků. Umožňuje vytvářet fiktivní obrázky pevných i náhodných rozměrů, různých barev. Dokáže nasimulovat i pomalé internetové připojení.
 
+### Statistiky 
+
+- [Can I use](http://caniuse.com/) - Služba poskytuje přehled toho, jak jsou podporovány CSS vlastnosti, HTML5 elementy a jiné webové technologie v různých webových prohlížečích.
+
 ### Testování webů
 
-- [BrowserStack](https://www.browserstack.com) - Služba, která vám umožní vyzkoušet váš projekt na jiných prohlížečích, ale i na jiných zařízeních. Nic nemusíte instalovat. Při testování se připojujete k zařízením přes váš prohlížeč. **Cena: $12.50 / měsíc**
+- [BrowserStack](https://www.browserstack.com) - Služba, která vám umožní vyzkoušet váš projekt na jiných prohlížečích, ale i na jiných zařízeních. Nic nemusíte instalovat. Při testování se připojujete k zařízením přes váš prohlížeč.
 - [WebPagetest](https://www.webpagetest.org/) - Online služba pro pokročilou analýzu a testování webů. Umožňuje vývojáři odhalit řadu implementačních problémů např. rychlost a způsob načítání. [Více na Vzhůru Dolů…](https://www.vzhurudolu.cz/prirucka/rychlost-nastroje#webpagetest-org)
 
 ### Zpracování obrázků
