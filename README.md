@@ -129,6 +129,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ### Zpracování obrázků
 
+- [Photopea 🇨🇿](https://www.photopea.com/) - Volně dostupný grafický editor umožňující editovat v prohlížeči soubory typu `PSD` (Adobe Photoshop), `XCF` (Gimp) nebo `Sketch` (Sketch App).
 - [SVGOMG!](https://jakearchibald.github.io/svgomg/) - Nástroj pro optimalizaci grafických SVG souborů.
 - [TinyPNG](https://tinypng.com/) - Nástroj pro optimalizaci grafických PNG a JPEG souborů.
 
