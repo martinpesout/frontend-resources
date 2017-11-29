@@ -13,8 +13,9 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Knižní zdroje, ebooky](#knižní-zdroje-ebooky)
 - [Videa](#videa)
 - [Podcasty](#podcasty)
+- [Přehledy](#přehledy)
 - [Výukové nástroje](#výukové-nástroje)
-- [Užitečné služby](#užitečné-služby)
+- [Webové služby](#webové-služby)
 - [Užitečné zdroje](#užitečné-zdroje)
 - [Editory kódu](#editory-kódu)
 - [Minikonference, srazy](#minikonference-srazy)
@@ -79,13 +80,32 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
+## Přehledy
+
+### CSS
+
+- CSS Flexbox Layout
+  - Přehled na Vzhůru dolů 🇨🇿 - [Co je to Flexbox?](https://www.vzhurudolu.cz/prirucka/css3-flexbox), [Položky layoutu](https://www.vzhurudolu.cz/prirucka/css3-flexbox-polozky), [Kontejner](https://www.vzhurudolu.cz/prirucka/css3-flexbox-kontejner)
+  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- CSS Grid Layout
+  - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+### HTML
+
+- [HEAD](https://gethead.info/) - Podrobný průvodce elementy, které je možné použít v hlavičce HTML dokumentu.
+
+### Email
+
+- [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/) - Podrobný přehled podpory CSS vlastností napříč mobilními, webovými a desktopovými emailovými klienty.
+
 ## Výukové nástroje
 
-### Příklady, ukázky
+### Návody, tipy, ukázky
 
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
 - [Grid by Example](https://gridbyexample.com/) - Projekt Rachel Andrew, který by měl obsahovat vše potřebné pro pochopení CSS Grid Layout. Vše je obohacené o příklady a návrhové vzory.
 - [Learn CSS Grid](http://learncssgrid.com/) - Průvodce, který pomůže porozumět možnostem CSS Grid Layout.
+- [The Modern JavaScript Tutorial](https://javascript.info/) - Kolekce JS návodů popisujících řešení základních i složitějších problémů, se kterými se setkáváme při webovém vývoji.
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - jQuery je na webech hojně používané. Často však potřebujeme jen zlomek jeho funkcí. Stránka poskytuje ucelený přehled základních funkcí jQuery a jejich alternativních zápisů pomocí JavaScriptu.
 
 ### Výukové hry
@@ -95,16 +115,14 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
-## Užitečné služby
+## Webové služby
 
 ### Diskuzní portály
 
 - [Stack Overflow](https://stackoverflow.com) - Největší diskuzní portál zaměřený na vývojáře. Díky rozsáhlé komunitě je to vhodné místo pro řešení chyb, hledání rad a sdílení svých úspěchů.
 
-### Dokumentace a jiné přehledy
+### Dokumentace
 
-- [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/) - Podrobný přehled podpory CSS vlastností napříč mobilními, webovými a desktopovými emailovými klienty.
-- [HEAD](https://gethead.info/) - Podrobný průvodce elementy, které je možné použít v hlavičce HTML dokumentu.
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/cs/) - Webová dokumentace poskytuje informace o otevřených webových technologiích, včetně HTML, CSS a API rozhraní pro webové stránky a HTML5 aplikace.
 
 ### Generátory
@@ -118,7 +136,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [JSFiddle](https://jsfiddle.net/) - Online editor pro testování a sdílení vašeho JavaScriptu, CSS, HTML nebo CoffeeScriptu.
 - [satyr.io](http://satyr.io/) - Generátor prototypů obrázků. Umožňuje vytvářet fiktivní obrázky pevných i náhodných rozměrů, různých barev. Dokáže nasimulovat i pomalé internetové připojení.
 
-### Statistiky 
+### Statistiky
 
 - [Can I use](http://caniuse.com/) - Služba poskytuje přehled toho, jak jsou podporovány CSS vlastnosti, HTML5 elementy a jiné webové technologie v různých webových prohlížečích.
 
@@ -185,5 +203,5 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
 
 ---
 
-Autor seznamu: [Martin Pešout](http://www.martinpesout.cz/). Dále přispěli: Tomáš Kout, Jetpack, 
+Autor seznamu: [Martin Pešout](http://www.martinpesout.cz/). Dále přispěli: Tomáš Kout, Jetpack,
 vojtaaa9. Velké díky 🍻 také posílám celé české kodérské komunitě za pomoc s rozšiřováním zdrojů.
