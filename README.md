@@ -13,8 +13,9 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Knižní zdroje, ebooky](#knižní-zdroje-ebooky)
 - [Videa](#videa)
 - [Podcasty](#podcasty)
+- [Přehledy](#přehledy)
 - [Výukové nástroje](#výukové-nástroje)
-- [Užitečné služby](#užitečné-služby)
+- [Webové služby](#webové-služby)
 - [Užitečné zdroje](#užitečné-zdroje)
 - [Editory kódu](#editory-kódu)
 - [Minikonference, srazy](#minikonference-srazy)
@@ -79,9 +80,19 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
+## Přehledy
+
+### HTML
+
+- [HEAD](https://gethead.info/) - Podrobný průvodce elementy, které je možné použít v hlavičce HTML dokumentu.
+
+### Email
+
+- [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/) - Podrobný přehled podpory CSS vlastností napříč mobilními, webovými a desktopovými emailovými klienty.
+
 ## Výukové nástroje
 
-### Příklady, ukázky
+### Návody, tipy, ukázky
 
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
 - [Grid by Example](https://gridbyexample.com/) - Projekt Rachel Andrew, který by měl obsahovat vše potřebné pro pochopení CSS Grid Layout. Vše je obohacené o příklady a návrhové vzory.
@@ -96,16 +107,14 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
-## Užitečné služby
+## Webové služby
 
 ### Diskuzní portály
 
 - [Stack Overflow](https://stackoverflow.com) - Největší diskuzní portál zaměřený na vývojáře. Díky rozsáhlé komunitě je to vhodné místo pro řešení chyb, hledání rad a sdílení svých úspěchů.
 
-### Dokumentace a jiné přehledy
+### Dokumentace
 
-- [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/) - Podrobný přehled podpory CSS vlastností napříč mobilními, webovými a desktopovými emailovými klienty.
-- [HEAD](https://gethead.info/) - Podrobný průvodce elementy, které je možné použít v hlavičce HTML dokumentu.
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/cs/) - Webová dokumentace poskytuje informace o otevřených webových technologiích, včetně HTML, CSS a API rozhraní pro webové stránky a HTML5 aplikace.
 
 ### Generátory
