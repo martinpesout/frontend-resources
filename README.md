@@ -86,6 +86,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
 - [Grid by Example](https://gridbyexample.com/) - Projekt Rachel Andrew, který by měl obsahovat vše potřebné pro pochopení CSS Grid Layout. Vše je obohacené o příklady a návrhové vzory.
 - [Learn CSS Grid](http://learncssgrid.com/) - Průvodce, který pomůže porozumět možnostem CSS Grid Layout.
+- [The Modern JavaScript Tutorial](https://javascript.info/) - Kolekce JS návodů popisujících řešení základních i složitějších problémů, se kterými se setkáváme při webovém vývoji.
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - jQuery je na webech hojně používané. Často však potřebujeme jen zlomek jeho funkcí. Stránka poskytuje ucelený přehled základních funkcí jQuery a jejich alternativních zápisů pomocí JavaScriptu.
 
 ### Výukové hry
@@ -118,7 +119,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [JSFiddle](https://jsfiddle.net/) - Online editor pro testování a sdílení vašeho JavaScriptu, CSS, HTML nebo CoffeeScriptu.
 - [satyr.io](http://satyr.io/) - Generátor prototypů obrázků. Umožňuje vytvářet fiktivní obrázky pevných i náhodných rozměrů, různých barev. Dokáže nasimulovat i pomalé internetové připojení.
 
-### Statistiky 
+### Statistiky
 
 - [Can I use](http://caniuse.com/) - Služba poskytuje přehled toho, jak jsou podporovány CSS vlastnosti, HTML5 elementy a jiné webové technologie v různých webových prohlížečích.
 
@@ -185,5 +186,5 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
 
 ---
 
-Autor seznamu: [Martin Pešout](http://www.martinpesout.cz/). Dále přispěli: Tomáš Kout, Jetpack, 
+Autor seznamu: [Martin Pešout](http://www.martinpesout.cz/). Dále přispěli: Tomáš Kout, Jetpack,
 vojtaaa9. Velké díky 🍻 také posílám celé české kodérské komunitě za pomoc s rozšiřováním zdrojů.
