@@ -31,6 +31,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Inclusive Components](https://inclusive-components.design/) - A blog trying to be a pattern library, with a focus on inclusive design. Each post explores a common interface component and comes up with a better, more robust and accessible version of it.
 - [Je čas 🇨🇿](http://jecas.cz/) - Blog, který autor založil k uchování a sdílení poznámek, hotových řešení, rad a nápadů k tvorbě webových stránek.
 - [Smashing Magazine](https://www.smashingmagazine.com/) - Magazine for web designers and developers.
+- [SUPERKODERS 🇨🇿](https://medium.com/superkoders) - Blog brněnské firmy SUPERKODERS s články o jejich práci a webovém frontendu.
 - [Vzhůru dolů 🇨🇿](https://www.vzhurudolu.cz/) - Populární český blog o webovém frontedu. Autorem je Martin Michálek, známý  specialista na CSS a responzivní design.
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
