@@ -20,6 +20,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Editory kódu](#editory-kódu)
 - [Minikonference, lokální srazy](#minikonference-lokální-srazy)
 - [Větší konference](#větší-konference)
+- [Kurzy](#kurzy)
 - [Kde hledat pracovní nabídky?](#kde-hledat-pracovní-nabídky)
 
 </details>
@@ -200,6 +201,10 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
 - [WebExpo](https://www.webexpo.cz/) (21.–22. 9. 2018) - Největší a nejzajímavější webová událost roku v ČR.
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
+
+## Kurzy
+
+- [Vzhůru dolů 🇨🇿](https://www.vzhurudolu.cz/kurzy) - Vylepšete své znalosti na kurzech autora textů blogu Vzhůru dolů. Spolu s dalšími odborníky pořádá kurzy SVG, Bootstrapu a Javascriptu.
 
 ## Kde hledat pracovní nabídky?
 
