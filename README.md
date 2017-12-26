@@ -18,8 +18,8 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Webové služby](#webové-služby)
 - [Užitečné zdroje](#užitečné-zdroje)
 - [Editory kódu](#editory-kódu)
-- [Minikonference, srazy](#minikonference-srazy)
-- [Nadcházející konference](#nadcházející-konference)
+- [Minikonference, lokální srazy](#minikonference-lokální-srazy)
+- [Větší konference](#větší-konference)
 - [Kurzy](#kurzy)
 - [Kde hledat pracovní nabídky?](#kde-hledat-pracovní-nabídky)
 
@@ -179,7 +179,7 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
-## Minikonference, srazy
+## Minikonference, lokální srazy
 
 - Praha
   - [Pražské srazy Frontendisti.cz 🇨🇿](https://www.meetup.com/frontendisti/)
@@ -190,9 +190,15 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
-## Nadcházející konference
+## Větší konference
 
-- [WebExpo 2018](https://www.webexpo.cz/) (21.–22. 9. 2018) - Největší a nejzajímavější webová událost roku v ČR.
+- Barcamp 🇨🇿 - Otevřená konference ze světa internetu. Zaměřena je především na nové trendy v internetových aplikacích a technologiích, webdesign, marketing, internetovou reklamu, digitální média a podnikání. V následujícím seznamu uvádím pouze ty Barcamp konference, které aspoň občas mají v programu přednášky zajímavé pro frontend designery.
+  - [Barcamp České Budějovice](http://www.barcampjc.cz/)
+  - [Barcamp Hradec Králové](https://barcamphradec.cz/) (13. 10. 2018)
+  - [Barcamp Brno](http://www.barcampbrno.cz/)
+  - [Barcamp Ostrava](https://www.barcampostrava.cz/)
+- [Devel.cz 🇨🇿](https://devel.cz/konference) - Konference zaměřená na vývojáře. Občas je zde možné najít i přednášku zajímavou pro frontend designery.
+- [WebExpo](https://www.webexpo.cz/) (21.–22. 9. 2018) - Největší a nejzajímavější webová událost roku v ČR.
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
