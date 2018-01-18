@@ -52,7 +52,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ### 2017
 
-- [Design Systems](https://shop.smashingmagazine.com/products/design-systems-by-alla-kholmatova) - As designing static pages has become untenable, many have started to approach design in a modular way. Book is new practical guide to creating effective design languages for great digital products. *(2017; Smashing Magazine - Alla Kholmatova)*
+- [Design Systems](https://shop.smashingmagazine.com/products/design-systems-by-alla-kholmatova) - As designing static pages has become untenable, many have started to approach design in a modular way. Book is new practical guide to creating effective design languages for great digital products. [Více v recenzi…](http://www.martinpesout.cz/kniha-design-systems/) *(2017; Smashing Magazine - Alla Kholmatova)*
 - [Vzhůru do (responzivního) webdesignu 🇨🇿](https://www.vzhurudolu.cz/ebook-responzivni) - Kompletní průvodce návrhem a implementací responzivních uživatelských rozhraní. [Více v recenzi…](http://www.martinpesout.cz/kniha-vzhuru-do-responzivniho-webdesignu/) *(2017; Martin Michálek)*
 - [Vzhůru do CSS3 🇨🇿](https://www.vzhurudolu.cz/ebook) - Vylepšete své znalosti webové kodéřiny aktuálním přehledem nástrojů a nových CSS3 vlastností v jednom e-booku. *(2017; Martin Michálek)*
 
