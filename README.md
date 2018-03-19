@@ -205,7 +205,7 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
 
 ### Konající se v minulých letech
 
-Následuje seznam konferencí s programem, který míval občas i přesah do vývoje frontendu, ale u kterých zatím není jisté konání v roce 2018.
+Následuje seznam konferencí, které v minulosti měly přednášky s přesahem do vývoje frontendu, ale u kterých zatím není jisté konání v roce 2018.
 
 - Barcamp 🇨🇿
   - [Barcamp Ostrava](https://www.barcampostrava.cz/)
