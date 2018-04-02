@@ -110,6 +110,11 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [The Modern JavaScript Tutorial](https://javascript.info/) - Kolekce JS návodů popisujících řešení základních i složitějších problémů, se kterými se setkáváme při webovém vývoji.
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - jQuery je na webech hojně používané. Často však potřebujeme jen zlomek jeho funkcí. Stránka poskytuje ucelený přehled základních funkcí jQuery a jejich alternativních zápisů pomocí JavaScriptu.
 
+### Interaktivní kurzy
+
+- [Flexbox](https://scrimba.com/g/gflexbox) - Zdarma dostupné výukové kurzy CSS Flexbox.
+- [CSS Variables](https://scrimba.com/g/gcssvariables) - Zdarma dostupné výukové kurzy používání CSS proměnných.
+
 ### Výukové hry
 
 - [Flexbox Froggy](http://flexboxfroggy.com/) - Hra pro výuku CSS Flexbox
