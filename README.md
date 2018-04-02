@@ -95,6 +95,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 ### HTML
 
 - [HEAD](https://gethead.info/) - Podrobný průvodce elementy, které je možné použít v hlavičce HTML dokumentu.
+- [HTML5 Accessibility](http://html5accessibility.com/) - Aktuální přehled podpory přístupnosti HTML5 vlastností u nejpoužívanějších prohlížečů.
 
 ### Email
 
