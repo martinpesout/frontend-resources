@@ -129,6 +129,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ### Generátory
 
+- [CSS Gradient](https://cssgradient.io/) - Interaktivní generátor CSS gradientů. Výsledek je možné exportovat do CSS.
 - [Gradient CSS Generator](https://www.cssmatic.com/gradient-generator) - Interaktivní generátor CSS gradientů. Výsledek je možné exportovat do CSS nebo SCSS.
 - [Favicon Generator](https://realfavicongenerator.net/) - Generátor favikony webu. Nástroj vám vytvoří HTML kód a přichystá potřebné externí soubory ve správných rozměrech (obrázky, manifesty).
 
@@ -163,6 +164,10 @@ Při vyhodnocování přehledu jsem provedl [FB anketu](https://www.facebook.com
 
 - [Iconic](https://useiconic.com/) - Sada ikon navržených pro moderní web.
 - [IcoMoon](https://icomoon.io/) - Sady vektorových ikon s možností tvorby `SVG sprite`.
+
+### Testování webů
+
+- [Free Virtual Machines from IE8 to MS Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) - Připravené a volně stažitelné "virtuálky" umožňující spustit Internet Explorer 8 - Internet Explorer 11, popř. Microsoft Edge přes `VirtualBox`, `Vagrant`, `VMware`, `HyperV` nebo `Parallels`.
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
