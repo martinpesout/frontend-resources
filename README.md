@@ -130,6 +130,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ### Generátory
 
+- [Carbon](https://carbon.now.sh/) - Generátor obrázků s náhledy kódu.
 - [CSS Gradient](https://cssgradient.io/) - Interaktivní generátor CSS gradientů. Výsledek je možné exportovat do CSS.
 - [Gradient CSS Generator](https://www.cssmatic.com/gradient-generator) - Interaktivní generátor CSS gradientů. Výsledek je možné exportovat do CSS nebo SCSS.
 - [Favicon Generator](https://realfavicongenerator.net/) - Generátor favikony webu. Nástroj vám vytvoří HTML kód a přichystá potřebné externí soubory ve správných rozměrech (obrázky, manifesty).
