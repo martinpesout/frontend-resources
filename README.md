@@ -113,8 +113,11 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ### Interaktivní kurzy
 
-- [Flexbox](https://scrimba.com/g/gflexbox) - Zdarma dostupné výukové kurzy CSS Flexbox.
-- [CSS Variables](https://scrimba.com/g/gcssvariables) - Zdarma dostupné výukové kurzy používání CSS proměnných.
+- [Flexbox](https://scrimba.com/g/gflexbox) - Výukový kurz CSS Flexbox.
+- [Grid](https://scrimba.com/g/gR8PTE) - Výukový kurz CSS Grid.
+- [HTML](https://scrimba.com/g/ghtml) - Interaktivní kurz pro pochopení základů HTML.
+- [JavaScript](https://scrimba.com/g/gintrotojavascript) - Výukový kurz pro pochopení základů JavaScriptu.
+- [CSS Variables](https://scrimba.com/g/gcssvariables) - Výukový kurz vysvětlující používání CSS proměnných.
 
 ### Výukové hry
 
