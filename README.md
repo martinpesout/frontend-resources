@@ -238,7 +238,7 @@ Následuje seznam konferencí, které v minulosti měly přednášky s přesahem
 ## Kde hledat pracovní nabídky?
 
 - [Frontendisti.cz práce 🇨🇿](https://www.facebook.com/groups/frontendistiprace/) - FB skupina určená pro nabídky a poptávky pracovních pozic kolem webovém frontendu.
-- [Vzhůru do práce! 🇨🇿](https://www.vzhurudolu.cz/prace) - Pracovní nabídky pro webové vývojáře.
+- [StartupJobs 🇨🇿](https://www.startupjobs.cz/) - StartupJobs vám pomůže najít práci, která vás bude bavit! Portál propojuje zájemce se startupy a skvělými firmami s ambicemi a velkou vizí.
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
