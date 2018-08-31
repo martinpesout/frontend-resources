@@ -201,6 +201,7 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
   - [Pražské srazy Frontendisti.cz 🇨🇿](https://www.meetup.com/frontendisti/)
 - Brno
   - [Brněnské srazy Frontendisti.cz 🇨🇿](https://www.meetup.com/frontendisti-brno/)
+  - [Be more JS 🇨🇿](https://www.meetup.com/Be-more-JS/)
 - Ostrava
   - [Ostravské srazy Frontedisti.cz 🇨🇿](https://www.meetup.com/Frontendisti-cz-Ostrava/)
 - Plzeň
