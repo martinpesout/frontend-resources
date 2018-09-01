@@ -124,6 +124,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 - [Flexbox](https://scrimba.com/g/gflexbox) - Výukový kurz CSS Flexbox.
 - [Grid](https://scrimba.com/g/gR8PTE) - Výukový kurz CSS Grid.
+- [CSS Animations](https://css-animations.io/) - Interaktivní kurz pro výuku CSS animací.
 - [CSS Variables](https://scrimba.com/g/gcssvariables) - Výukový kurz vysvětlující používání CSS proměnných.
 
 ### Výukové hry
