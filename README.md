@@ -105,7 +105,8 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ### Návody, tipy, ukázky
 
-- [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - Seznam užitečných tipů, které pro efektivnější práci s CSS na webu.  
+- A collection of tips to help take your CSS skills pro.
 - [Grid by Example](https://gridbyexample.com/) - Projekt Rachel Andrew, který by měl obsahovat vše potřebné pro pochopení CSS Grid Layout. Vše je obohacené o příklady a návrhové vzory.
 - [Learn CSS Grid](http://learncssgrid.com/) - Průvodce, který pomůže porozumět možnostem CSS Grid Layout.
 - [The Modern JavaScript Tutorial](https://javascript.info/) - Kolekce JS návodů popisujících řešení základních i složitějších problémů, se kterými se setkáváme při webovém vývoji.
