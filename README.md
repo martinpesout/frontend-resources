@@ -105,7 +105,8 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ### Návody, tipy, ukázky
 
-- [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro.
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - Seznam užitečných tipů, které pro efektivnější práci s CSS na webu.  
+- A collection of tips to help take your CSS skills pro.
 - [Grid by Example](https://gridbyexample.com/) - Projekt Rachel Andrew, který by měl obsahovat vše potřebné pro pochopení CSS Grid Layout. Vše je obohacené o příklady a návrhové vzory.
 - [Learn CSS Grid](http://learncssgrid.com/) - Průvodce, který pomůže porozumět možnostem CSS Grid Layout.
 - [The Modern JavaScript Tutorial](https://javascript.info/) - Kolekce JS návodů popisujících řešení základních i složitějších problémů, se kterými se setkáváme při webovém vývoji.
@@ -113,11 +114,23 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 ### Interaktivní kurzy
 
-- [Flexbox](https://scrimba.com/g/gflexbox) - Výukový kurz CSS Flexbox.
-- [Grid](https://scrimba.com/g/gR8PTE) - Výukový kurz CSS Grid.
-- [HTML](https://scrimba.com/g/ghtml) - Interaktivní kurz pro pochopení základů HTML.
-- [JavaScript](https://scrimba.com/g/gintrotojavascript) - Výukový kurz pro pochopení základů JavaScriptu.
-- [CSS Variables](https://scrimba.com/g/gcssvariables) - Výukový kurz vysvětlující používání CSS proměnných.
+#### Začátečník
+
+- [Introduction to HTML](https://scrimba.com/g/ghtml) - Interaktivní kurz pro pochopení základů HTML.
+- [Introduction to CSS](https://scrimba.com/g/gintrotocss) - Intraktivní kurz pro pochopení základů CSS.
+- [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript) - Interaktivní kurz pro pochopení základů JavaScriptu.
+- [Beginning HTML & CSS](https://codetime.io/series/beginning-html-css) - Videokurzy základů HTML a CSS.
+- Codeacademy
+    - [Introduction to HTML](https://www.codecademy.com/learn/learn-html) - Interaktivní kurz základů HTML.
+    - [Make a Website]
+    - [Learn CSS]
+
+#### Pokročilé techniky
+
+- [Hello, animation!](https://css-animations.io/) - Interaktivní kurz pro výuku CSS animací.
+- [Learn Flexbox for free](https://scrimba.com/g/gflexbox) - Výukový kurz CSS Flexbox.
+- [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE) - Výukový kurz CSS Grid.
+- [Learn CSS Variables for free](https://scrimba.com/g/gcssvariables) - Výukový kurz vysvětlující používání CSS proměnných.
 
 ### Výukové hry
 
@@ -141,6 +154,7 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Carbon](https://carbon.now.sh/) - Generátor obrázků s náhledy kódu.
 - [CSS Gradient](https://cssgradient.io/) - Interaktivní generátor CSS gradientů. Výsledek je možné exportovat do CSS.
 - [Gradient CSS Generator](https://www.cssmatic.com/gradient-generator) - Interaktivní generátor CSS gradientů. Výsledek je možné exportovat do CSS nebo SCSS.
+- [CSS Grid](https://cssgr.id/) - Interaktivni generátor pro CSS Grid layout. Výsledek je možné exportovat do CSS.
 - [Favicon Generator](https://realfavicongenerator.net/) - Generátor favikony webu. Nástroj vám vytvoří HTML kód a přichystá potřebné externí soubory ve správných rozměrech (obrázky, manifesty).
 
 ### Prototypování, sdílení kódu
