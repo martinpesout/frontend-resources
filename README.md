@@ -120,10 +120,10 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Introduction to CSS](https://scrimba.com/g/gintrotocss) - Intraktivní kurz pro pochopení základů CSS.
 - [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript) - Interaktivní kurz pro pochopení základů JavaScriptu.
 - [Beginning HTML & CSS](https://codetime.io/series/beginning-html-css) - Videokurzy základů HTML a CSS.
-- Codeacademy
-    - [Introduction to HTML](https://www.codecademy.com/learn/learn-html) - Interaktivní kurz základů HTML.
-    - [Make a Website]
-    - [Learn CSS]
+- Codeacademy - portál online výukových kurzů
+    - [Learn HTML](https://www.codecademy.com/learn/learn-html) - Interaktivní kurz základů HTML.
+    - [Learn CSS](https://www.codecademy.com/learn/learn-css) - Navazující kurz pro pochopení základů stylování webu pomocí CSS.
+    - [Make a Website](https://www.codecademy.com/learn/make-a-website) - Kurz tvorby jednoduchých webů pomocí HTML, CSS a s využítím frameworku Bootstrap.
 
 #### Pokročilé techniky
 
