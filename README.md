@@ -116,16 +116,21 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 
 #### Začátečník
 
-- [HTML](https://scrimba.com/g/ghtml) - Interaktivní kurz pro pochopení základů HTML.
-- [CSS](https://scrimba.com/g/gintrotocss) - Intraktivní kurz pro pochopení základů CSS.
-- [JavaScript](https://scrimba.com/g/gintrotojavascript) - Výukový kurz pro pochopení základů JavaScriptu.
+- [Introduction to HTML](https://scrimba.com/g/ghtml) - Interaktivní kurz pro pochopení základů HTML.
+- [Introduction to CSS](https://scrimba.com/g/gintrotocss) - Intraktivní kurz pro pochopení základů CSS.
+- [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript) - Interaktivní kurz pro pochopení základů JavaScriptu.
+- [Beginning HTML & CSS](https://codetime.io/series/beginning-html-css) - Videokurzy základů HTML a CSS.
+- Codeacademy
+    - [Introduction to HTML](https://www.codecademy.com/learn/learn-html) - Interaktivní kurz základů HTML.
+    - [Make a Website]
+    - [Learn CSS]
 
 #### Pokročilé techniky
 
-- [Flexbox](https://scrimba.com/g/gflexbox) - Výukový kurz CSS Flexbox.
-- [Grid](https://scrimba.com/g/gR8PTE) - Výukový kurz CSS Grid.
-- [CSS Animations](https://css-animations.io/) - Interaktivní kurz pro výuku CSS animací.
-- [CSS Variables](https://scrimba.com/g/gcssvariables) - Výukový kurz vysvětlující používání CSS proměnných.
+- [Hello, animation!](https://css-animations.io/) - Interaktivní kurz pro výuku CSS animací.
+- [Learn Flexbox for free](https://scrimba.com/g/gflexbox) - Výukový kurz CSS Flexbox.
+- [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE) - Výukový kurz CSS Grid.
+- [Learn CSS Variables for free](https://scrimba.com/g/gcssvariables) - Výukový kurz vysvětlující používání CSS proměnných.
 
 ### Výukové hry
 
