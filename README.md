@@ -231,7 +231,7 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
   - [Barcamp Brno](http://www.barcampbrno.cz/) (2. 6. 2018)
   - [Barcamp České Budějovice](http://www.barcampjc.cz/) (24. 2. 2018)
   - [Barcamp Hradec Králové](https://barcamphradec.cz/) (13. 10. 2018)
-  - [Barcamp Ostrava 🇨🇿](https://www.barcampostrava.cz/) (24. 11. 2018)
+  - [Barcamp Ostrava](https://www.barcampostrava.cz/) (24. 11. 2018)
   - [Barcamp Plzeň](https://www.plzenskybarcamp.cz/) (7. 4. 2018)
 - [Devel.cz 🇨🇿](https://devel.cz/konference) (16. 6. 2018) - Konference zaměřená na vývojáře. Občas je zde možné najít i přednášku zajímavou pro frontend designery.
 - [WebExpo](https://www.webexpo.cz/) (21.–22. 9. 2018) - Největší a nejzajímavější webová událost roku v ČR.
