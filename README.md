@@ -121,9 +121,9 @@ Seznam je určený pro všechny frontend designery, kteří se ptají, kde je mo
 - [Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript) - Interaktivní kurz pro pochopení základů JavaScriptu.
 - [Beginning HTML & CSS](https://codetime.io/series/beginning-html-css) - Videokurzy základů HTML a CSS.
 - Codeacademy - portál online výukových kurzů
-    - [Learn HTML](https://www.codecademy.com/learn/learn-html) - Interaktivní kurz základů HTML.
-    - [Learn CSS](https://www.codecademy.com/learn/learn-css) - Navazující kurz pro pochopení základů stylování webu pomocí CSS.
-    - [Make a Website](https://www.codecademy.com/learn/make-a-website) - Kurz tvorby jednoduchých webů pomocí HTML, CSS a s využítím frameworku Bootstrap.
+	- [Learn HTML](https://www.codecademy.com/learn/learn-html) - Interaktivní kurz základů HTML.
+	- [Learn CSS](https://www.codecademy.com/learn/learn-css) - Navazující kurz pro pochopení základů stylování webu pomocí CSS.
+	- [Make a Website](https://www.codecademy.com/learn/make-a-website) - Kurz tvorby jednoduchých webů pomocí HTML, CSS a s využítím frameworku Bootstrap.
 
 #### Pokročilé techniky
 
@@ -228,20 +228,13 @@ Seznam nejoblíbenějších editorů mezi českými frontendisty. Pořadí bylo 
 ### Akce s ohlášeným konáním v 2018
 
 - Barcamp 🇨🇿 - Otevřená konference ze světa internetu. Zaměřena je především na nové trendy v internetových aplikacích a technologiích, webdesign, marketing, internetovou reklamu, digitální média a podnikání. V následujícím seznamu uvádím **pouze** ty Barcamp konference, které aspoň občas mají v programu **zajímavé pro frontend designery**.
+  - [Barcamp Brno](http://www.barcampbrno.cz/) (2. 6. 2018)
   - [Barcamp České Budějovice](http://www.barcampjc.cz/) (24. 2. 2018)
   - [Barcamp Hradec Králové](https://barcamphradec.cz/) (13. 10. 2018)
-  - [Barcamp Brno](http://www.barcampbrno.cz/) (2. 6. 2018)
+  - [Barcamp Ostrava 🇨🇿](https://www.barcampostrava.cz/) (24. 11. 2018)
   - [Barcamp Plzeň](https://www.plzenskybarcamp.cz/) (7. 4. 2018)
 - [Devel.cz 🇨🇿](https://devel.cz/konference) (16. 6. 2018) - Konference zaměřená na vývojáře. Občas je zde možné najít i přednášku zajímavou pro frontend designery.
 - [WebExpo](https://www.webexpo.cz/) (21.–22. 9. 2018) - Největší a nejzajímavější webová událost roku v ČR.
-
-### Konající se v minulých letech
-
-Následuje seznam konferencí, které v minulosti měly přednášky s přesahem do vývoje frontendu, ale u kterých zatím není jisté konání v roce 2018.
-
-- Barcamp 🇨🇿
-  - [Barcamp Ostrava](https://www.barcampostrava.cz/)
-
 
 <sub>[⇧ zpět nahoru](#obsah-seznamu)</sub>
 
